@@ -1,0 +1,9 @@
+# ignore imges and files
+# ignore all files in the directory
+# except the ones listed below  
+# ignore all images
+*.png
+*.jpg
+*.jpeg
+*.gif
+# ignore all files except the ones listed below
